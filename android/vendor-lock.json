@@ -1,0 +1,295 @@
+[
+  {
+    "file": "dexie.js",
+    "original": "https://unpkg.com/dexie/dist/dexie.js",
+    "url": "https://cdn.jsdelivr.net/npm/dexie@4.0.11/dist/dexie.js",
+    "sha256": "33a4ee73f0b7ad6239bf699fc26de229e61208bac06bedeef4d63d89a2eb74c8"
+  },
+  {
+    "file": "purify.min.js",
+    "original": "https://unpkg.com/dompurify@2.3.8/dist/purify.min.js",
+    "url": "https://cdn.jsdelivr.net/npm/dompurify@2.3.8/dist/purify.min.js",
+    "sha256": "d48e3c32ba5c79567f39903147035e803da5fc50ff01c7dab7bde9fcbb9919d1"
+  },
+  {
+    "file": "echarts.min.js",
+    "original": "https://cdn.jsdelivr.net/npm/echarts@5.5.0/dist/echarts.min.js",
+    "url": "https://cdn.jsdelivr.net/npm/echarts@5.5.0/dist/echarts.min.js",
+    "sha256": "42f8329d989b6f6539dd2b15bbdf0d82025762ac112fbb60dc57b27d7bcf3946"
+  },
+  {
+    "file": "html2canvas.min.js",
+    "original": "https://cdn.bootcdn.net/ajax/libs/html2canvas/1.4.1/html2canvas.min.js",
+    "url": "https://cdn.jsdelivr.net/npm/html2canvas@1.4.1/dist/html2canvas.min.js",
+    "sha256": "e87e550794322e574a1fda0c1549a3c70dae5a93d9113417a429016838eab8cb"
+  },
+  {
+    "file": "mammoth.browser.min.js",
+    "original": "https://cdn.jsdelivr.net/npm/mammoth@1.6.0/mammoth.browser.min.js",
+    "url": "https://cdn.jsdelivr.net/npm/mammoth@1.6.0/mammoth.browser.min.js",
+    "sha256": "596ef52239e52d8ee3cee10b2ee4a72596abf900d0e4f468593f956e9f1809b0"
+  },
+  {
+    "file": "jszip.min.js",
+    "original": "https://cdn.jsdelivr.net/npm/jszip@3.10.1/dist/jszip.min.js",
+    "url": "https://cdn.jsdelivr.net/npm/jszip@3.10.1/dist/jszip.min.js",
+    "sha256": "acc7e41455a80765b5fd9c7ee1b8078a6d160bbbca455aeae854de65c947d59e"
+  },
+  {
+    "file": "Sortable.min.js",
+    "original": "https://cdn.jsdelivr.net/npm/sortablejs@1.15.2/Sortable.min.js",
+    "url": "https://cdn.jsdelivr.net/npm/sortablejs@1.15.2/Sortable.min.js",
+    "sha256": "ca68430703c4f5960e90735867c6e94d29b5a3de37107d8100e5a301007e9e6e"
+  },
+  {
+    "file": "crypto-js.min.js",
+    "original": "https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js",
+    "url": "https://cdn.jsdelivr.net/npm/crypto-js@4.1.1/crypto-js.min.js",
+    "sha256": "bc195e1d388b8b28ceaf8f482d4be9e9dd9337ff305013b5f25edae0c7d02190"
+  },
+  {
+    "file": "image-64a2f30ebb4c17c1.png",
+    "original": "https://i.postimg.cc/28zNyYWs/export202509221542593320.png",
+    "url": "https://i.postimg.cc/28zNyYWs/export202509221542593320.png",
+    "sha256": "6e9f3e693123b322688f0a124ffad86c4ed67b186cbbe712bcc032211d562138",
+    "kind": "image"
+  },
+  {
+    "file": "image-680e137317280a5e.png",
+    "original": "https://i.postimg.cc/3RmWRRtS/chan-18.png",
+    "url": "https://i.postimg.cc/3RmWRRtS/chan-18.png",
+    "sha256": "d57247c35bceb151342648805dfc1efe19a4624bf80d39b02111e984d94e4a68",
+    "kind": "image"
+  },
+  {
+    "file": "image-1a88eeb6da0851f3.png",
+    "original": "https://i.postimg.cc/3wqFttL3/chan-90.png",
+    "url": "https://i.postimg.cc/3wqFttL3/chan-90.png",
+    "sha256": "fcc12d20b9a171072aacf32bf2abf3b35841c74714e5db9c6d2b32f239f2e3c4",
+    "kind": "image"
+  },
+  {
+    "file": "image-3278510e258a5579.png",
+    "original": "https://i.postimg.cc/5NndFrq6/export202509181824532800.png",
+    "url": "https://i.postimg.cc/5NndFrq6/export202509181824532800.png",
+    "sha256": "d81e086a8b43531dac76aeb8139111afd2e5d8ef141d3c87334dddb28d666d30",
+    "kind": "image"
+  },
+  {
+    "file": "image-37c1ed36b0bb247c.png",
+    "original": "https://i.postimg.cc/5y6G7fn4/5A615115038157EA857BB5D4D8E54EC7.png",
+    "url": "https://i.postimg.cc/5y6G7fn4/5A615115038157EA857BB5D4D8E54EC7.png",
+    "sha256": "382de216c3c5aa77c903678e82116a76ed3d89128b156f8d40c3a7c5afee11d2",
+    "kind": "image"
+  },
+  {
+    "file": "image-d5581bd92e05e1a4.png",
+    "original": "https://i.postimg.cc/63wQBHCB/export202509181831140230.png",
+    "url": "https://i.postimg.cc/63wQBHCB/export202509181831140230.png",
+    "sha256": "33c9235633fea3084f0f2e38cbda8a0d421819c7bf98bb0cbfa715a03f0022d8",
+    "kind": "image"
+  },
+  {
+    "file": "image-aacd799365718766.png",
+    "original": "https://i.postimg.cc/6QgNzCFf/chan-118.png",
+    "url": "https://i.postimg.cc/6QgNzCFf/chan-118.png",
+    "sha256": "8c29171f4072e16e001d6cb244b3687623dcf26ab699d2b37bab1dd0d1652f3c",
+    "kind": "image"
+  },
+  {
+    "file": "image-0684fe9c7b88000f.webp",
+    "original": "https://i.postimg.cc/FRpWm8MK/20260228-062619.webp",
+    "url": "https://i.postimg.cc/FRpWm8MK/20260228-062619.webp",
+    "sha256": "a507dce507e33c891f9a9c6b7cda6a6d97713a758cf21fd6874aa85315a19f57",
+    "kind": "image"
+  },
+  {
+    "file": "image-2710b803a1229367.png",
+    "original": "https://i.postimg.cc/FzVtC0x4/chan-21.png",
+    "url": "https://i.postimg.cc/FzVtC0x4/chan-21.png",
+    "sha256": "730d7bac6860a7e4a4e2400a95022dd614ece231d3e3da3450d4d76bc1cc308c",
+    "kind": "image"
+  },
+  {
+    "file": "image-5135d049e3c0a86a.jpg",
+    "original": "https://i.postimg.cc/GtbTnxhP/o-o-1.jpg",
+    "url": "https://i.postimg.cc/GtbTnxhP/o-o-1.jpg",
+    "sha256": "c794723a9283bbbf630fd9a260f0856a265295c2e614a159dad2e5a700207eb5",
+    "kind": "image"
+  },
+  {
+    "file": "image-acbcde35c5d1fe1b.png",
+    "original": "https://i.postimg.cc/J0F3Lt0T/chan-107.png",
+    "url": "https://i.postimg.cc/J0F3Lt0T/chan-107.png",
+    "sha256": "e039c7a1fa5a1bcde011aca68b7df86055b261b40d4759f1ef690339717d7169",
+    "kind": "image"
+  },
+  {
+    "file": "image-0bb9022be2418166.png",
+    "original": "https://i.postimg.cc/Jz0tYqnT/chan-145.png",
+    "url": "https://i.postimg.cc/Jz0tYqnT/chan-145.png",
+    "sha256": "36de427f71519afb1cf9ec1d3679bcce2c207c42056404801880cfbcd5342389",
+    "kind": "image"
+  },
+  {
+    "file": "image-d6fb6bdd87968636.png",
+    "original": "https://i.postimg.cc/JzD0xH1C/export202509181829064550.png",
+    "url": "https://i.postimg.cc/JzD0xH1C/export202509181829064550.png",
+    "sha256": "30690e7e41ae21286811dc1ea2abfd70062bdb7bbb2877236715fff61e5408d2",
+    "kind": "image"
+  },
+  {
+    "file": "image-00bd467424f12f6d.png",
+    "original": "https://i.postimg.cc/KcgT1wzQ/DF424409FC54EDFF74D78ECB1311E1D7.png",
+    "url": "https://i.postimg.cc/KcgT1wzQ/DF424409FC54EDFF74D78ECB1311E1D7.png",
+    "sha256": "dc58fe5729c1cf341a277dff9adb4ed20fd3210bc81fc9046c44eceec5704b7c",
+    "kind": "image"
+  },
+  {
+    "file": "image-91796e3b244d4fad.png",
+    "original": "https://i.postimg.cc/Kvs4tDh5/export202509181826424260.png",
+    "url": "https://i.postimg.cc/Kvs4tDh5/export202509181826424260.png",
+    "sha256": "3ccd11de7967f05814421dfb4638f6d95ae39e25a24b35a75f4a4d36fde0f314",
+    "kind": "image"
+  },
+  {
+    "file": "image-3163a01b384c8d47.webp",
+    "original": "https://i.postimg.cc/NjRxBZXV/20260228-062729.webp",
+    "url": "https://i.postimg.cc/NjRxBZXV/20260228-062729.webp",
+    "sha256": "1f02835df38023b77fe3c3eee9825c97f1c2634d8cc4f40bfbe93602c82b9fb3",
+    "kind": "image"
+  },
+  {
+    "file": "image-9bccd57066da1b53.png",
+    "original": "https://i.postimg.cc/PrYGRDPF/chan-76.png",
+    "url": "https://i.postimg.cc/PrYGRDPF/chan-76.png",
+    "sha256": "dd5518abab3f3197ddc7d86bd99ead1cbf1550c6d08243147eb9e14255e563e8",
+    "kind": "image"
+  },
+  {
+    "file": "image-ee431739189a05ba.png",
+    "original": "https://i.postimg.cc/SKcsF02Z/export202509181830445980.png",
+    "url": "https://i.postimg.cc/SKcsF02Z/export202509181830445980.png",
+    "sha256": "260106cdd37bfa02cc2bfe302660c073eb3324f7ae4abd9715e103861a1d86a0",
+    "kind": "image"
+  },
+  {
+    "file": "image-170037b2018c4109.png",
+    "original": "https://i.postimg.cc/Vk042Snv/5F3BCD91056B989330AE34D11901BD6E.png",
+    "url": "https://i.postimg.cc/Vk042Snv/5F3BCD91056B989330AE34D11901BD6E.png",
+    "sha256": "47eaebc820b961ecb30b6f4b62ebcceca64f3fe0f022245b5b0c3019a0444ca1",
+    "kind": "image"
+  },
+  {
+    "file": "image-1f32c088449c8c40.png",
+    "original": "https://i.postimg.cc/VvQB8dQT/chan-143.png",
+    "url": "https://i.postimg.cc/VvQB8dQT/chan-143.png",
+    "sha256": "db6026cf67ef8edd524277d7c1fd4f21f3f5e61c7194689e11e4ce93681e3afd",
+    "kind": "image"
+  },
+  {
+    "file": "image-1e21302dde86e5f1.jpg",
+    "original": "https://i.postimg.cc/W4Z9R9x4/ins-1.jpg",
+    "url": "https://i.postimg.cc/W4Z9R9x4/ins-1.jpg",
+    "sha256": "881591992dd4aab84be4200a202da355ba6e22eb1c99e46ca9dfb21e4b4deb7f",
+    "kind": "image"
+  },
+  {
+    "file": "image-e17635f85b0d063d.jpg",
+    "original": "https://i.postimg.cc/XvFDdTKY/Smart-Select-20251013-023208.jpg",
+    "url": "https://i.postimg.cc/XvFDdTKY/Smart-Select-20251013-023208.jpg",
+    "sha256": "7ca248340d5f8c21a0633af75ea2e85e7759b9b0b0f171f6dcfb06e01acd60a1",
+    "kind": "image"
+  },
+  {
+    "file": "image-ff21c6132338565f.jpg",
+    "original": "https://i.postimg.cc/Y96LPskq/o-o-2.jpg",
+    "url": "https://i.postimg.cc/Y96LPskq/o-o-2.jpg",
+    "sha256": "2f590f684a0a89917a9f76d900832321fb5c664f2cd490ba20398a3244a91df4",
+    "kind": "image"
+  },
+  {
+    "file": "image-735f8c9501f05107.png",
+    "original": "https://i.postimg.cc/ZKqC9D2R/export202509181827225860.png",
+    "url": "https://i.postimg.cc/ZKqC9D2R/export202509181827225860.png",
+    "sha256": "5a3441d085b26f0c8129739beb9f3d186736b0d8920127785d062fb0be2f1412",
+    "kind": "image"
+  },
+  {
+    "file": "image-705e1a9332f20024.png",
+    "original": "https://i.postimg.cc/bJBLzmFH/chan-70.png",
+    "url": "https://i.postimg.cc/bJBLzmFH/chan-70.png",
+    "sha256": "58142f78ce0fad3c45982007c5514c9a4e2d5fd4fda9bef521fa98a4b5f7112e",
+    "kind": "image"
+  },
+  {
+    "file": "image-b1e2abbdc47871bb.png",
+    "original": "https://i.postimg.cc/fyPVBZf1/1758451183605.png",
+    "url": "https://i.postimg.cc/fyPVBZf1/1758451183605.png",
+    "sha256": "4a585cfcfbeedfcf97781a0634ee8f82b8a6ad2af227b156186805c2b4880e84",
+    "kind": "image"
+  },
+  {
+    "file": "image-d926f52550aa2389.png",
+    "original": "https://i.postimg.cc/hPCcZG3v/png-(143).png",
+    "url": "https://i.postimg.cc/hPCcZG3v/png-(143).png",
+    "sha256": "8d3b6fb6d43e50c618dc5e8ef7e582e1610dc25a3f974f8292220509338aedc2",
+    "kind": "image"
+  },
+  {
+    "file": "image-cbd06a847d66389c.png",
+    "original": "https://i.postimg.cc/htYvkdQK/chan-146.png",
+    "url": "https://i.postimg.cc/htYvkdQK/chan-146.png",
+    "sha256": "12ff08090796922c2800901b78d317e2b2b84fc5eefaa59b84d6e1bc524e2d2c",
+    "kind": "image"
+  },
+  {
+    "file": "image-d2b171ba09df6b09.png",
+    "original": "https://i.postimg.cc/mr45mv5b/png-(103).png",
+    "url": "https://i.postimg.cc/mr45mv5b/png-(103).png",
+    "sha256": "452b525c6ef6b9e2b1553315aa24cb40d9af986946698aceb2b5f06ff509aab1",
+    "kind": "image"
+  },
+  {
+    "file": "image-897f52ae45715ec4.png",
+    "original": "https://i.postimg.cc/pLwT6VTh/export202509181830143960.png",
+    "url": "https://i.postimg.cc/pLwT6VTh/export202509181830143960.png",
+    "sha256": "e5bbef0f8c8edd211ccb2f8516e196f4800a6f06fd37146b7820912cf664533f",
+    "kind": "image"
+  },
+  {
+    "file": "image-fc0ab6a5f5b14af9.png",
+    "original": "https://i.postimg.cc/prCWkrKT/chan-74.png",
+    "url": "https://i.postimg.cc/prCWkrKT/chan-74.png",
+    "sha256": "08bc12cabe854df6ad772242deb7b2f56a50c2fd2c322893f396acf4d443600f",
+    "kind": "image"
+  },
+  {
+    "file": "image-b439bf25af5df352.png",
+    "original": "https://i.postimg.cc/qBcdpqNc/export202509221549335970.png",
+    "url": "https://i.postimg.cc/qBcdpqNc/export202509221549335970.png",
+    "sha256": "18cb85a2b4812d91575db484060e4ec93d1bae611fb31757edd91ed6fede1b4a",
+    "kind": "image"
+  },
+  {
+    "file": "image-654f088f3b1930f7.png",
+    "original": "https://i.postimg.cc/t4gXjG8P/7632D362A35EC703E7A81F6FF0F8AE34.png",
+    "url": "https://i.postimg.cc/t4gXjG8P/7632D362A35EC703E7A81F6FF0F8AE34.png",
+    "sha256": "19e33ae279e42e41097c4a29d1c4c659ce3d1e317057b503975989a0750dc1bb",
+    "kind": "image"
+  },
+  {
+    "file": "image-d1931c753134127b.png",
+    "original": "https://i.postimg.cc/vZVdC7gt/chan-133.png",
+    "url": "https://i.postimg.cc/vZVdC7gt/chan-133.png",
+    "sha256": "390d2df8eae9a8359e166a6e6a312fee6b52753692b1e2eb2a9d131616c72707",
+    "kind": "image"
+  },
+  {
+    "file": "image-29d7ab16287df6cb.png",
+    "original": "https://i.postimg.cc/ydd65txK/1758451018266.png",
+    "url": "https://i.postimg.cc/ydd65txK/1758451018266.png",
+    "sha256": "b921e268c94adea3cf25393b4dc7129e388e10db65d57ff10f630b4d89ebcbe9",
+    "kind": "image"
+  }
+]
